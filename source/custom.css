@@ -1,0 +1,125 @@
+.main-content {
+	margin-top: 4% !important;
+}
+
+.jumbotron-image {
+	background-image: url(../images/cover_photo.jpg);
+	background-size: cover;
+}
+
+.text-white {
+	color:#fff !important;
+}
+
+#icon {
+	/*margin-top: -6px !important;*/
+	width: 35px !important;
+	height: 35px !important;
+}
+
+.navbar-default {
+	background-color: #8b0000 !important;
+}
+
+.text-jumbotron {
+	font-family: 'Bitter', serif;
+	text-align: center;
+}
+
+.text-content {
+	font-family: 'Bitter', serif !important;
+}
+
+.close-title {
+	margin-top: -6px;
+}
+
+p {
+	font-family: 'Bitter', serif;
+}
+
+.thumbnail {
+	width: 200px;
+	height: 275px;
+}
+
+#myrow {
+	margin-left: 55px !important;
+	margin-right: 55px !important;
+}
+
+#adapt {
+	position:relative;
+}
+
+.myfooter {
+	margin-top: 50px;
+	margin-bottom: 0px;
+}
+
+.footer-links {
+	color:#fff !important;
+}
+
+.thumbnail-big {
+	width: 300px;
+	height: 413px;
+}
+
+.details-content {
+	margin-top: 7% !important;
+	font-family: 'Bitter', serif;
+}
+
+.border {
+	position: absolute;
+	margin-right: auto;
+	margin-left: auto;
+	border-color: #000;
+}
+
+.bg-image {
+	background-color: #8b0000;
+}
+
+.text-gold {
+	transition: color 0.5s ease;
+	color:#fe64df;
+}
+
+.text-gold:hover {
+	color:#ffd700;
+	text-decoration: none;
+}
+
+.text-gray {
+	color:#f8f8f8 !important;
+}
+
+.content-position {
+	margin-top:10% !important;
+}
+
+.margins {
+	margin-top:50px;
+}
+
+.margin-bot {
+	margin-bottom: 0px;
+}
+
+#profile {
+	display:block;
+}
+
+#books {
+	display:none;
+}
+
+#upload {
+	display:none;
+}
+
+#activities {
+	display:none;
+}
